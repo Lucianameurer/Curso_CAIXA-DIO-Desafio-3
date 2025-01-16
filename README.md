@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <audio src="Podcast - Simplificando com IA_ Como a IA Torna o Lar Mais Prático.mp3" controls title="Podcast editado"></audio>
+    <audio src="Podcast - Simplificando com IA_ Como a IA Torna o Lar Mais Prático.mp3" 
 </p>
 
 # Projeto Podcast Gerado por I.A.s
