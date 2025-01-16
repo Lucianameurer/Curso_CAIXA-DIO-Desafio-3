@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-    previw podcast
-        <audio src="Podcast - Simplificando com IA_ Como a IA Torna o Lar Mais Prático.mp3">
+    <preview podcast
+    audio src="Podcast - Simplificando com IA_ Como a IA Torna o Lar Mais Prático.mp3">
             
 </p>
 
