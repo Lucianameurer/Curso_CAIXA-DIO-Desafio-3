@@ -18,7 +18,7 @@
 </a>
 </p>
 
->[Podcast - Simplificando com IA_ Como a IA Torna o Lar Mais Prático](https://github.com/Lucianameurer/Curso_CAIXA-DIO-Desafio-3/blob/main/Podcast%20-%20Simplificando%20com%20IA_%20Como%20a%20IA%20Torna%20o%20Lar%20Mais%20Pr%C3%A1tico.mp3)    
+>[Podcast - Simplificando com IA_ Como a IA Torna o Lar Mais Prático](https://github.com/Lucianameurer/Curso_CAIXA-DIO-Desafio-3/blob/main/Podcast%20-%20Simplificando%20com%20IA_%20Como%20a%20IA%20Torna%20o%20Lar%20Mais%20Pr%C3%A1tico%20-%20final.mp4)  
 </p>
 
 # Projeto Podcast Gerado por I.A.s
